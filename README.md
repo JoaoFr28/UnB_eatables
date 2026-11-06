@@ -2,7 +2,7 @@
   <img src="images/Aesthetic%20Twitter%20Header.png" alt="UnBeatables Header" width="100%">
 </div>
 
-# UnBeatables 2025
+# UnBeatables 2026
 
 Bem-vindo(a), integrante da equipe UnBeatables!
 
