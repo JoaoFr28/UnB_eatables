@@ -26,7 +26,7 @@ Este repositório contém todo o código de competição, simulação, infraestr
 * Iuri Costa
 * João Pedro Martins
 * Mariana Reis
-* Ryuji
+* Ryuji Okubo
 
 ## Estrutura do Repositório
 
